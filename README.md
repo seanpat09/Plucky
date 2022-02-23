@@ -1,4 +1,6 @@
-# Plucker
+<img src="assets/logo.svg" height="128" alt="">
+
+ # Plucker 
 
 This is a library to get a set a values plucked from a list of sObject. It also contains a helper method to group a records by a given field.
 
